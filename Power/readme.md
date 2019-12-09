@@ -6,7 +6,7 @@ If you prefer you can use the GND, +15V and -15V connections on the M869 board i
 
 But you can also use a normal external power supply for this -15V and +15V. (option 3)
 
-The official way is to connect a High Quality external power supply for the -15V and +15V. (option 3)
+The official way is to connect a High Quality external power supply for the -15V and +15V. (option 4)
 This original power had even a feedback loop. So it regulates the voltage directly on the M869 board.
 In this case you have two GND wires, two -15V wires and two +15V wires.
 
