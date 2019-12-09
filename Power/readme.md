@@ -10,3 +10,4 @@ The official way is to connect a High Quality external power supply for the -15V
 This original power had even a feedback loop. So it regulates the voltage directly on the M869 board.
 In this case you have two GND wires, two -15V wires and two +15V wires.
 
+(For all options you need to connect the GND to GND HQ loop wire on the connector.)
